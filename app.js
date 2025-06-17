@@ -7,3 +7,4 @@ print("Hello, World!");
 
 //al millon mi Bredny y usted 
 // hay que eperar al lenton de Alan 
+alan no es lento alan es 3 veces veloz
