@@ -7,3 +7,6 @@ print("Hello, World!");
 
 //al millon mi Bredny y usted 
 // hay que eperar al lenton de Alan 
+
+
+//yo diria que si o que 
