@@ -8,7 +8,7 @@ print("Hello, World!");
 //al millon mi Bredny y usted 
 // hay que eperar al lenton de Alan 
 <<<<<<< HEAD
-alan no es lento alan es 3 veces veloz
+//alan no es lento alan es 3 veces veloz
 =======
 
 
